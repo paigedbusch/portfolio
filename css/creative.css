@@ -345,3 +345,68 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+
+#angular {
+  background: url(/img/angularjs.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#react {
+  background: url(/img/react.svg) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#javascript {
+  background: url(/img/javascript.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#html5 {
+  background: url(/img/html5.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#css3 {
+  background: url(/img/css3.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#git {
+  background: url(/img/git.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#jQuery {
+  background: url(/img/jQuery.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#mysql {
+  background: url(/img/mysql.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#node {
+  background: url(/img/node.svg) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#express {
+  background: url(/img/express.png) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#gulp {
+  background: url(/img/gulp.svg) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+#sass {
+  background: url(/img/sass.svg) no-repeat;
+  background-size: contain;
+  background-position: center; }
+
+.skills-icon {
+  width: 125px;
+  height: 125px;
+  margin: auto; }
